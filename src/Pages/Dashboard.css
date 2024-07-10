@@ -1,0 +1,89 @@
+.app-repairdashboard{
+  font-weight: 500;
+  /* border: 1px solid #ccc; */
+  /* padding: 8px; */
+}
+.app-dates{
+  font-weight: 500;
+}
+.app-compulsory{
+  color: rgb(167, 26, 50);
+  font-weight: 700;
+}
+.app-search{
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 3px;
+  background-color: #28A745;
+  border-radius: 4px;
+  cursor: pointer;
+  color: white;
+}
+.app-boxh{
+  font-size: 10px;
+}
+.app-box1{
+  background-color: #C90000;
+  color: white;
+  font-weight: 500;
+  border-radius: 8px;
+}
+.app-box2{
+  background-color: #6069AB;
+  color: white;
+  font-weight: 500;
+  border-radius: 8px;
+}
+.app-box7{
+  background-color: #63A4FF;
+  color: white;
+  font-weight: 500;
+  border-radius: 8px;
+}
+.app-box3{
+  background-color: #026234;
+  color: white;
+  font-weight: 500;
+  border-radius: 8px;
+}
+.app-box4{
+  background-color: #169AC3;
+  color: white;
+  font-weight: 500;
+  border-radius: 8px;
+}
+.app-box5{
+  background-color: #E8734D;
+  color: white;
+  font-weight: 500;
+  border-radius: 8px;
+}
+.app-box6{
+  background-color: #DB9B7C;
+  color: white;
+  font-weight: 500;
+  border-radius: 8px;
+}
+.app-calls-box{
+  background-color: #D2F0F4;
+  border-radius: 4px;
+}
+.app-cards{
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+  border-radius: 16px;
+  border: none;
+}
+.charts{
+  max-width: 400px;
+  max-height: 300px;
+}
+rect[fill="#3366cc"] {
+    display: none;
+}
+
+rect[fill="#333333"] {
+    display: none;
+}
+rect[fill="#cccccc"] {
+    display: none;
+}

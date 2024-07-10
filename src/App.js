@@ -1,15 +1,13 @@
 import './App.css';
-import Login from './Pages/Login';
+import './Pages/Dashboard'
+import Dashboard from './Pages/Dashboard';
 // import TextControlsExample from './Pages/Login';
-
-
-
 
 function App() {
   return (
-    <div className="container">
-      <Login />
-    </div>
+    <>
+      <Dashboard/>
+    </>
   );
 }
 
